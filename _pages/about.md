@@ -23,4 +23,4 @@ Work Experience
 
 For more info
 ------
-More info about me can click the hyperlink in the sidebar or can be found in my [CV]([https://academicpages.github.io/markdown/](https://github.com/Mister-He/Mister-He.github.io/blob/master/assets/Curriculum%20Vitae_Yichen%20He.pdf)).
+More info about me can click the hyperlink in the sidebar or can be found in my [CV]([assets/Curriculum Vitae_Yichen He.pdf]).
