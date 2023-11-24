@@ -4,8 +4,8 @@ of Youths: A Long-Term Experimental Study in Campus Green Space"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+date: 6 May 2022
+venue: 'IJERH'
 paperurl: 'https://doi.org/10.3390/ijerph19095648'
 citation: 'Mao, Y.; He, Y.; Xia, T.; Xu, H.; Zhou, S.; Zhang, J. Examining the Dose–Response Relationship between Outdoor Jogging and Physical Health of Youths: A Long-Term Experimental Study in Campus Green Space. Int. J. Environ. Res. Public Health 2022, 19, 5648. https://doi.org/10.3390/ijerph19095648'
 ---
