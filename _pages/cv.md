@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* April 2015: Research Assistant
+* April 2023: Research Assistant
   * National University of Singapore
   * Duties included: Demographic Modelling
   * Supervisor: Professor Dickens Borame Sue Lee
