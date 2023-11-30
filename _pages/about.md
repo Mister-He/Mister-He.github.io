@@ -23,4 +23,4 @@ Work Experience
 
 For more info
 ------
-More info about me can click the hyperlink in the sidebar or can be found in my [CV](../assets/Curriculum_Vitae.pdf).
+More info about me can click the hyperlink in the sidebar or can be found in my [CV](Mister-He.github.io/assets/Curriculum_Vitae.pdf).
