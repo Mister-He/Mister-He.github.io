@@ -10,7 +10,7 @@ redirect_from:
 
 Introduction
 ======
-I am currently pursuing my Master Degree in Department of Statistics and Data Science, National University of Singapore. And simultaneously, I worked as a Research Assistant in Saw Swee Hock School of Public Health, National University of Singapore. My current research interests are Bayesian Hierachical and stochastical Modelling in Chronic/Infectious Disease.
+Currently, I'm working as a Research Assistant in Saw Swee Hock School of Public Health, National University of Singapore. My current research interests are Bayesian Hierachical and stochastical Modelling in Chronic Disease and Ordinary Differential Equations and Partial Differential Equations in Infectious Disease. 
 
 Education
 ======
