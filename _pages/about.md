@@ -10,12 +10,13 @@ redirect_from:
 
 Introduction
 ======
-Currently, I'm working as a Research Assistant in Saw Swee Hock School of Public Health, National University of Singapore. My current research interests are Bayesian Hierachical and stochastical Modelling in Chronic Disease and Ordinary Differential Equations and Partial Differential Equations in Infectious Disease. 
+Currently, I'm working as a Research Assistant in Saw Swee Hock School of Public Health, National University of Singapore. My current research interests are disease dynamic modeling using Bayesian statistical methods. 
 
 Education
 ======
 * B.Sc in Mathematics, Soochow University, China, 2022
 * M.Sc in Statistics and Data Science, National University of Singapore, Singapore, 2023
+* P.hD student in Public Health (Biostatistics), National University of Singapore, Singapore, 2024 - now
 
 Work Experience
 ======
