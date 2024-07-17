@@ -10,19 +10,19 @@ redirect_from:
 
 Introduction
 ======
-Currently, I'm working as a Research Assistant in Saw Swee Hock School of Public Health, National University of Singapore. My current research interests are disease dynamic modeling using Bayesian statistical methods. 
+Currently, I'm pursuing my Ph.D degree in Biostatistics in Public Health in Saw Swee Hock School of Public Health, National University of Singapore. My current research interests are infectious disease dynamic modeling and cancer progression modelling. 
 
 Education
 ======
-* B.Sc in Mathematics, Soochow University, China, 2022
-* M.Sc in Statistics and Data Science, National University of Singapore, Singapore, 2023
-* P.hD student in Public Health (Biostatistics), National University of Singapore, Singapore, 2024 - now
+* B.Sc in Mathematics, Soochow University, China, 2018 - 2022;
+* M.Sc in Statistics and Data Science, National University of Singapore, Singapore, 2022 - 2023;
+* P.hD student in Public Health (Biostatistics), National University of Singapore, Singapore, 2024 - now;
 
 Work Experience
 ======
 * 2023.4 - Now: Research Assistant, Saw Swee Hock School of Public Health, National University of Singapore, Singapore
 
-Current Research Projects
+Research Projects
 ======
 * Demographical Epidemiology Modelling of Singapore (DEMOS): Individual-level Hypertension prevalence and Mortality rates Projections up to 2050 using Bayesian methods, supervised by Assist. Prof Dickens Borame Sue Lee, NUS
 * Distribution-free multivariate test based on optimal matching with applications to feature selections, supervised by Assist. Prof Somabha Mukherjee, NUS
