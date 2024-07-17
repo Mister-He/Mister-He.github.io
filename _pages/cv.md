@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. in Mathematics, Soochow University, 2022
 * M.Sc. in Statistics and Data Science, National University of Singapore, 2023
-* Ph.D. in Biostatistics, National University of Singapore, 2028
+* Ph.D. student in Biostatistics, National University of Singapore, 2028
 
 Work experience
 ======
@@ -26,4 +26,5 @@ Skills
 ======
 * English
 * Violin & Guitar
+* Video Editing
 * Badminton
