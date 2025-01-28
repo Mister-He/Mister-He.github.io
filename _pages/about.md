@@ -16,14 +16,16 @@ Education
 ======
 * B.Sc in Mathematics, Soochow University, China, 2018 - 2022;
 * M.Sc in Statistics and Data Science, National University of Singapore, Singapore, 2022 - 2023;
-* P.hD student in Public Health (Biostatistics), National University of Singapore, Singapore, 2024 - now;
+* P.hD in Public Health (Biostatistics and Modelling), National University of Singapore, Singapore, 2024 - now;
 
 Work Experience
 ======
-* 2023.4 - Now: Research Assistant, Saw Swee Hock School of Public Health, National University of Singapore, Singapore
+* 2023.4 - 2024.8: Research Assistant, Saw Swee Hock School of Public Health, National University of Singapore, Singapore
 
 Research Projects
 ======
+* Modelling Cost-effective Lung Cancer Screening Strategies in Singapore, main contributor
+* Hepatitis C transmission and progression among people who have injected drugs in Singapore: Modelling treatment for eradication, co-author
 * Demographical Epidemiology Modelling of Singapore (DEMOS): Individual-level Hypertension prevalence and Mortality rates Projections up to 2050 using Bayesian methods, supervised by Assist. Prof Dickens Borame Sue Lee, NUS
 * Distribution-free multivariate test based on optimal matching with applications to feature selections, supervised by Assist. Prof Somabha Mukherjee, NUS
 * Some ongoing environmental health related researches also with a researcher from Shanghai Jiaotong University
