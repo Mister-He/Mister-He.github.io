@@ -32,4 +32,4 @@ Research Projects
 
 For more info
 ======
-More info about me can click the hyperlink in the sidebar or can be found in my [CV](../assets/Curriculum_Vitae_YichenHe.pdf).
+More info about me can click the hyperlink in the sidebar or can be found in my [CV](../assets/Curriculum_Vitae_Yichen.pdf).
